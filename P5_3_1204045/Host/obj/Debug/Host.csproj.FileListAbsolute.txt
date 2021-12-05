@@ -1,0 +1,16 @@
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\bin\Debug\Host.exe.config
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\bin\Debug\Host.exe
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\bin\Debug\Host.pdb
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\bin\Debug\P5_3_1204045.dll
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\bin\Debug\P5_3_1204045.pdb
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\obj\Debug\Host.csproj.AssemblyReference.cache
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\obj\Debug\Host.csproj.SuggestedBindingRedirects.cache
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\obj\Debug\Host.Form1.resources
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\obj\Debug\Host.Properties.Resources.resources
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\obj\Debug\Host.csproj.GenerateResource.cache
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\obj\Debug\Host.csproj.CoreCompileInputs.cache
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\obj\Debug\Host.csproj.CopyComplete
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\obj\Debug\Host.exe
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\obj\Debug\Host.pdb
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\bin\Debug\CharTextBox.dll
+A:\KULIAH\Semester III\pemrogramanII\P5_3_1204045\Host\bin\Debug\CharTextBox.pdb

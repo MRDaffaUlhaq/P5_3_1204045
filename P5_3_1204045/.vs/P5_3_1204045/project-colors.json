@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f0eb096c-c65e-4fa9-8d91-5d94166243c6": {
+      "ProjectGuid": "f0eb096c-c65e-4fa9-8d91-5d94166243c6",
+      "DisplayName": "P5_3_1204045",
+      "ColorIndex": 0
+    },
+    "aeebefad-99aa-40ad-9494-47bf6f6ea071": {
+      "ProjectGuid": "aeebefad-99aa-40ad-9494-47bf6f6ea071",
+      "DisplayName": "Host",
+      "ColorIndex": 1
+    },
+    "6d5e889c-37b8-433b-aa7a-e17aa7635e0c": {
+      "ProjectGuid": "6d5e889c-37b8-433b-aa7a-e17aa7635e0c",
+      "DisplayName": "CharTextBox",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
